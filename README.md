@@ -1,7 +1,7 @@
 # FAQ regarding Flutter
 In the development of Flutter, a lot of questions come up. To answer them, Robert Brunhage, Tadas Petra and I (Tomic Riedel) have decided to create a constantly growing document in which we want to answer as many questions as possible. How do I learn Flutter, which StateManagement Solution is the best and how can I use Firebase? All such questions will be answered in this project.
 
-The document is a Google Docs document, which you can find here: https://docs.google.com/document/d/1661fkmcB1JFweZhzkLmFY2O7TL7ZEqViOk2PCTetwcg/edit?usp=sharing
+You can find all questions in the "Questions" folder.
 
 ## How to ask a question
 You have your own question and want us to answer it and include it in the document? That's easy: You create an issue in this repository, post your question there and explain it as detailed as possible. Once you have done this, it may take 1-2 days for your question to be answered. We will respond to your issue as soon as we have included your question in the document!
@@ -30,7 +30,6 @@ You can fill out the application here: https://forms.gle/zLN8UR2nakZmdu8L6
 
 This project costs us a lot of time and therefore we would be happy if you support it. Here you can find all important links, but also personal links, where you can follow us admins ;)
 
-Google Docs file: https://docs.google.com/document/d/1661fkmcB1JFweZhzkLmFY2O7TL7ZEqViOk2PCTetwcg/edit?usp=sharing
 
 Discord server from which many questions come and is very important for this project: https://discord.gg/NcRT4bPc75
 
